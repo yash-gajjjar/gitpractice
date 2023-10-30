@@ -8,8 +8,8 @@ addition(4, 5)
 <<<<<<< HEAD
 =======
 
-def multiplication(p, q):
-    return p * q
+def multiplication(p, q, r):
+    return p * q * r
 >>>>>>> developerA
 
 ###Yash Gajjar
