@@ -1,12 +1,8 @@
-def addition(a, b):
-    return a + b
+def addition(a, b, c):
+    return a + b + c
 
 
 addition(4, 5)
 
-<<<<<<< HEAD
-=======
-
-def multiplication(p, q):
-    return p * q
->>>>>>> developerA
+def multiplication(a,b)
+     return a*b
